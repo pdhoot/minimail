@@ -1,5 +1,5 @@
 #root {
-  max-width: 1280px;
+  /* max-width: 1280px; */
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
@@ -39,4 +39,29 @@
 
 .read-the-docs {
   color: #888;
+}
+
+.text-neon-blue {
+  color: #4af2fd;
+}
+
+.text-neon-pink {
+  color: #ff4bf2;
+}
+
+.neon-glow {
+  text-shadow: 0 0 5px #4af2fd, 0 0 10px #4af2fd, 0 0 20px #4af2fd;
+}
+
+.bg-neon-blue {
+  background-color: #4af2fd;
+}
+
+.bg-neon-pink {
+  background-color: #ff4bf2;
+}
+
+.neon-border {
+  border: 2px solid #4af2fd;
+  box-shadow: 0 0 10px #4af2fd;
 }

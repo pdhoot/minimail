@@ -1,0 +1,28 @@
+/* arcadeFont.css */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+.font-arcade {
+  font-family: 'Press Start 2P', cursive;
+}
+
+.text-neon-blue {
+  color: #00FFFF; /* Neon Cyan */
+  text-shadow: 0 0 5px #00FFFF, 0 0 20px #00FFFF;
+}
+
+.text-neon-pink {
+  color: #FF00FF; /* Neon Magenta */
+  text-shadow: 0 0 5px #FF00FF, 0 0 20px #FF00FF;
+}
+
+.bg-neon-blue {
+  background-color: #00FFFF;
+}
+
+.bg-neon-pink {
+  background-color: #FF00FF;
+}
+
+.shadow-neon {
+  box-shadow: 0 0 10px #00FFFF, 0 0 20px #FF00FF;
+}

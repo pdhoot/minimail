@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://minimail-be.onrender.com/:path*"
+    }
+  ]
+}
